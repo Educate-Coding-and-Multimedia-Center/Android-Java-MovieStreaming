@@ -1,0 +1,40 @@
+package com.educate.moviestreaming.model;
+
+public class Slide {
+
+    private String title;
+    private String backdrop_path;
+
+    public String getTitle() {
+        return title;
+    }
+
+    public String getBackdropPath() {
+        return backdrop_path;
+    }
+// ===== BEFORE CHANGES ======
+//    private int Image ;
+//    private String Title;
+//
+//    public Slide(int image, String title) {
+//        Image = image;
+//        Title = title;
+//    }
+//
+//
+//    public int getImage() {
+//        return Image;
+//    }
+//
+//    public String getTitle() {
+//        return Title;
+//    }
+//
+//    public void setImage(int image) {
+//        Image = image;
+//    }
+//
+//    public void setTitle(String title) {
+//        Title = title;
+//    }
+}

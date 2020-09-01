@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MovieStreaming</string>
+    <string name="dummy_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In nisi lorem, mollis et risus sit amet, tincidunt pulvinar ligula. Ut a porttitor diam. Etiam scelerisque ultrices ligula vel scelerisque. Nullam urna urna, euismod sit amet cursus ut, pharetra vitae urna. Phasellus elit ante, semper sit amet lectus et, mollis vehicula ligula. Aliquam erat volutpat. Maecenas a ante nunc. Nunc congue consectetur aliquet. Maecenas at lectus urna. Quisque volutpat accumsan facilisis.</string>
+</resources>
